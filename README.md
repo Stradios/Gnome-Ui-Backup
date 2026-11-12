@@ -1,4 +1,5 @@
 # 🖥️ gnome-ui-backup
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 > Backup and restore your GNOME desktop look — extensions, themes, icons, and fonts — across any supported Linux distro.
 
